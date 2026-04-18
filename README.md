@@ -1,3 +1,6 @@
+# Mugabo Rongin 👋
+
+![Profile Image]()
 # Dark Web Links & Onion Services Research
 
 **Disclaimer**: This repository is for educational and research purposes only. The content here discusses dark web infrastructure, privacy technologies, and digital security concepts.
