@@ -1,6 +1,6 @@
 # Mugabo Rongin 👋
 
-![Profile Image]()
+![Profile Image](https://github.com/Ronny12345-art/Real-darkweb-links/blob/main/mugabo-rongin-cybersecurity.png)
 # Dark Web Links & Onion Services Research
 
 **Disclaimer**: This repository is for educational and research purposes only. The content here discusses dark web infrastructure, privacy technologies, and digital security concepts.
